@@ -1,1 +1,1 @@
-web: python whatsUpAutomate.py
+web: python3 whatsUpAutomate.py
