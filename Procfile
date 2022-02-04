@@ -1,1 +1,1 @@
-worker: python whatsUpAutomate.py
+clock: python whatsUpAutomate.py
