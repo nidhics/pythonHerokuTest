@@ -1,1 +1,1 @@
-web: python3 whatsUpAutomate.py
+worker: python whatsUpAutomate.py
