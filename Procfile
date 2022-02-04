@@ -1,1 +1,1 @@
-clock: python whatsUpAutomate.py
+clock: python3 whatsUpAutomate.py
